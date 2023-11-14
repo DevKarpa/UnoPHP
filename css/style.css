@@ -1,0 +1,78 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#unoLogo{
+    color: yellow;
+    background-color: red;
+    border-radius: 50%;
+}
+
+#error{
+    color: red;
+    font-weight: bold;
+}
+
+#play{
+    padding: 20px;
+    border: 2px solid green;
+    border-radius: 30px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+#play:hover{
+    background-color: green;
+    transition-duration: 500ms;
+}
+
+#savePlayers{
+    padding: 20px; 
+    border: 2px solid yellow; 
+    border-radius: 30px; 
+    margin: 5px;
+    font-weight: bold;
+}
+
+#savePlayers:hover{
+    background-color: yellow;
+    transition-duration: 500ms;
+}
+
+#putCard{
+    padding: 20px; 
+    border: 2px solid blue; 
+    border-radius: 30px; 
+    margin: 5px;
+    font-weight: bold;
+}
+
+#putCard:hover{
+    background-color: blue;
+    transition-duration: 500ms;
+}
+
+#newCard{
+    padding: 20px; 
+    border: 2px solid red; 
+    border-radius: 30px; 
+    margin: 5px;
+    font-weight: bold;
+}
+
+#newCard:hover{
+    background-color: red;
+    transition-duration: 500ms;
+}
+
+#newColor{
+    border: 1px solid yellow; 
+    border-radius: 15px; 
+    margin-left: 25%; 
+    margin-right: 25%; 
+    margin-bottom: 5px
+}
