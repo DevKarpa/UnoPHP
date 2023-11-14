@@ -1,0 +1,606 @@
+{
+    "cards": [
+        {
+            "id": 0,
+            "color": "rojo",
+            "number": 0
+        },
+        {
+            "id": 1,
+            "color": "rojo",
+            "number": 1
+        },
+        {
+            "id": 2,
+            "color": "rojo",
+            "number": 2
+        },
+        {
+            "id": 3,
+            "color": "rojo",
+            "number": 3
+        },
+        {
+            "id": 4,
+            "color": "rojo",
+            "number": 4
+        },
+        {
+            "id": 5,
+            "color": "rojo",
+            "number": 5
+        },
+        {
+            "id": 6,
+            "color": "rojo",
+            "number": 6
+        },
+        {
+            "id": 7,
+            "color": "rojo",
+            "number": 7
+        },
+        {
+            "id": 8,
+            "color": "rojo",
+            "number": 8
+        },
+        {
+            "id": 9,
+            "color": "rojo",
+            "number": 9
+        },
+        {
+            "id": 10,
+            "color": "rojo",
+            "number": 0
+        },
+        {
+            "id": 11,
+            "color": "rojo",
+            "number": 1
+        },
+        {
+            "id": 12,
+            "color": "rojo",
+            "number": 2
+        },
+        {
+            "id": 13,
+            "color": "rojo",
+            "number": 3
+        },
+        {
+            "id": 14,
+            "color": "rojo",
+            "number": 4
+        },
+        {
+            "id": 15,
+            "color": "rojo",
+            "number": 5
+        },
+        {
+            "id": 16,
+            "color": "rojo",
+            "number": 6
+        },
+        {
+            "id": 17,
+            "color": "rojo",
+            "number": 7
+        },
+        {
+            "id": 18,
+            "color": "rojo",
+            "number": 8
+        },
+        {
+            "id": 19,
+            "color": "rojo",
+            "number": 9
+        },
+        {
+            "id": 20,
+            "color": "rojo",
+            "number": "+2"
+        },
+        {
+            "id": 21,
+            "color": "rojo",
+            "number": "+2"
+        },
+        {
+            "id": 22,
+            "color": "rojo",
+            "number": "prohibido"
+        },
+        {
+            "id": 23,
+            "color": "rojo",
+            "number": "prohibido"
+        },
+        {
+            "id": 24,
+            "color": "rojo",
+            "number": "cambio de sentido"
+        },
+        {
+            "id": 25,
+            "color": "rojo",
+            "number": "cambio de sentido"
+        },
+        {
+            "id": 26,
+            "color": "azul",
+            "number": 0
+        },
+        {
+            "id": 27,
+            "color": "azul",
+            "number": 1
+        },
+        {
+            "id": 28,
+            "color": "azul",
+            "number": 2
+        },
+        {
+            "id": 29,
+            "color": "azul",
+            "number": 3
+        },
+        {
+            "id": 30,
+            "color": "azul",
+            "number": 4
+        },
+        {
+            "id": 31,
+            "color": "azul",
+            "number": 5
+        },
+        {
+            "id": 32,
+            "color": "azul",
+            "number": 6
+        },
+        {
+            "id": 33,
+            "color": "azul",
+            "number": 7
+        },
+        {
+            "id": 34,
+            "color": "azul",
+            "number": 8
+        },
+        {
+            "id": 35,
+            "color": "azul",
+            "number": 9
+        },
+        {
+            "id": 36,
+            "color": "azul",
+            "number": 0
+        },
+        {
+            "id": 37,
+            "color": "azul",
+            "number": 1
+        },
+        {
+            "id": 38,
+            "color": "azul",
+            "number": 2
+        },
+        {
+            "id": 39,
+            "color": "azul",
+            "number": 3
+        },
+        {
+            "id": 40,
+            "color": "azul",
+            "number": 4
+        },
+        {
+            "id": 41,
+            "color": "azul",
+            "number": 5
+        },
+        {
+            "id": 42,
+            "color": "azul",
+            "number": 6
+        },
+        {
+            "id": 43,
+            "color": "azul",
+            "number": 7
+        },
+        {
+            "id": 44,
+            "color": "azul",
+            "number": 8
+        },
+        {
+            "id": 45,
+            "color": "azul",
+            "number": 9
+        },
+        {
+            "id": 46,
+            "color": "azul",
+            "number": "+2"
+        },
+        {
+            "id": 47,
+            "color": "azul",
+            "number": "+2"
+        },
+        {
+            "id": 48,
+            "color": "azul",
+            "number": "prohibido"
+        },
+        {
+            "id": 49,
+            "color": "azul",
+            "number": "prohibido"
+        },
+        {
+            "id": 50,
+            "color": "azul",
+            "number": "cambio de sentido"
+        },
+        {
+            "id": 51,
+            "color": "azul",
+            "number": "cambio de sentido"
+        },
+        {
+            "id": 52,
+            "color": "amarillo",
+            "number": 0
+        },
+        {
+            "id": 53,
+            "color": "amarillo",
+            "number": 1
+        },
+        {
+            "id": 54,
+            "color": "amarillo",
+            "number": 2
+        },
+        {
+            "id": 55,
+            "color": "amarillo",
+            "number": 3
+        },
+        {
+            "id": 56,
+            "color": "amarillo",
+            "number": 4
+        },
+        {
+            "id": 57,
+            "color": "amarillo",
+            "number": 5
+        },
+        {
+            "id": 58,
+            "color": "amarillo",
+            "number": 6
+        },
+        {
+            "id": 59,
+            "color": "amarillo",
+            "number": 7
+        },
+        {
+            "id": 60,
+            "color": "amarillo",
+            "number": 8
+        },
+        {
+            "id": 61,
+            "color": "amarillo",
+            "number": 9
+        },
+        {
+            "id": 62,
+            "color": "amarillo",
+            "number": 0
+        },
+        {
+            "id": 63,
+            "color": "amarillo",
+            "number": 1
+        },
+        {
+            "id": 64,
+            "color": "amarillo",
+            "number": 2
+        },
+        {
+            "id": 65,
+            "color": "amarillo",
+            "number": 3
+        },
+        {
+            "id": 66,
+            "color": "amarillo",
+            "number": 4
+        },
+        {
+            "id": 67,
+            "color": "amarillo",
+            "number": 5
+        },
+        {
+            "id": 68,
+            "color": "amarillo",
+            "number": 6
+        },
+        {
+            "id": 69,
+            "color": "amarillo",
+            "number": 7
+        },
+        {
+            "id": 70,
+            "color": "amarillo",
+            "number": 8
+        },
+        {
+            "id": 71,
+            "color": "amarillo",
+            "number": 9
+        },
+        {
+            "id": 72,
+            "color": "amarillo",
+            "number": "+2"
+        },
+        {
+            "id": 73,
+            "color": "amarillo",
+            "number": "+2"
+        },
+        {
+            "id": 74,
+            "color": "amarillo",
+            "number": "prohibido"
+        },
+        {
+            "id": 75,
+            "color": "amarillo",
+            "number": "prohibido"
+        },
+        {
+            "id": 76,
+            "color": "amarillo",
+            "number": "cambio de sentido"
+        },
+        {
+            "id": 77,
+            "color": "amarillo",
+            "number": "cambio de sentido"
+        },
+
+        {
+            "id": 78,
+            "color": "verde",
+            "number": 0
+        },
+        {
+            "id": 79,
+            "color": "verde",
+            "number": 1
+        },
+        {
+            "id": 80,
+            "color": "verde",
+            "number": 2
+        },
+        {
+            "id": 81,
+            "color": "verde",
+            "number": 3
+        },
+        {
+            "id": 82,
+            "color": "verde",
+            "number": 4
+        },
+        {
+            "id": 83,
+            "color": "verde",
+            "number": 5
+        },
+        {
+            "id": 84,
+            "color": "verde",
+            "number": 6
+        },
+        {
+            "id": 85,
+            "color": "verde",
+            "number": 7
+        },
+        {
+            "id": 86,
+            "color": "verde",
+            "number": 8
+        },
+        {
+            "id": 87,
+            "color": "verde",
+            "number": 9
+        },
+        {
+            "id": 88,
+            "color": "verde",
+            "number": 0
+        },
+        {
+            "id": 89,
+            "color": "verde",
+            "number": 1
+        },
+        {
+            "id": 90,
+            "color": "verde",
+            "number": 2
+        },
+        {
+            "id": 91,
+            "color": "verde",
+            "number": 3
+        },
+        {
+            "id": 92,
+            "color": "verde",
+            "number": 4
+        },
+        {
+            "id": 93,
+            "color": "verde",
+            "number": 5
+        },
+        {
+            "id": 94,
+            "color": "verde",
+            "number": 6
+        },
+        {
+            "id": 95,
+            "color": "verde",
+            "number": 7
+        },
+        {
+            "id": 96,
+            "color": "verde",
+            "number": 8
+        },
+        {
+            "id": 97,
+            "color": "verde",
+            "number": 9
+        },
+        {
+            "id": 98,
+            "color": "verde",
+            "number": "+2"
+        },
+        {
+            "id": 99,
+            "color": "verde",
+            "number": "+2"
+        },
+        {
+            "id": 100,
+            "color": "verde",
+            "number": "prohibido"
+        },
+        {
+            "id": 101,
+            "color": "verde",
+            "number": "prohibido"
+        },
+        {
+            "id": 102,
+            "color": "verde",
+            "number": "cambio de sentido"
+        },
+        {
+            "id": 103,
+            "color": "verde",
+            "number": "cambio de sentido"
+        },
+        {
+            "id": 104,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 105,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 106,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 107,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 108,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 109,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 110,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 111,
+            "color": "negro",
+            "number": "+4"
+        },
+        {
+            "id": 112,
+            "color": "negro",
+            "number": "comodin"
+        },
+        {
+            "id": 113,
+            "color": "negro",
+            "number": "comodin"
+        },
+        {
+            "id": 114,
+            "color": "negro",
+            "number": "comodin"
+        },
+        {
+            "id": 115,
+            "color": "negro",
+            "number": "comodin"
+        },
+        {
+            "id": 116,
+            "color": "negro",
+            "number": "comodin"
+        },
+        {
+            "id": 117,
+            "color": "negro",
+            "number": "comodin"
+        },
+        {
+            "id": 118,
+            "color": "negro",
+            "number": "comodin"
+        },
+        {
+            "id": 119,
+            "color": "negro",
+            "number": "comodin"
+        }
+
+    ]
+}
